@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Anesthesia Resident Assistant</string>
+    <string name="title_activity_main">Anesthesia Resident Assistant</string>
+    <string name="package_name">com.chitranjansb.anesthesiaassistant</string>
+    <string name="custom_url_scheme">com.chitranjansb.anesthesiaassistant</string>
+</resources>
